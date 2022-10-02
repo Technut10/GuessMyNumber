@@ -1,0 +1,2 @@
+This is for practice, the goals of game is to reinforce learning of variables, conditional statements, type casting, print statements, and while loops; nested and non. 
+This is for computer science 1. 
